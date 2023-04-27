@@ -1,5 +1,3 @@
-# Clinical-predictors-of-COVID-19-mortality-prediction
-
 The code for this article (citation below) is provided as a jupyter notebook to enable users to apply our methodology to clinical datasets.
 
 Yadaw, A., Li, Y.C., Bose, S., Iyengar, R., Bunyavanich, S., & Pandey, G. 2020. Clinical predictors of COVID-19 mortality. The Lancet Digital Health, 2(10):e516-e525, doi:https://doi.org/10.1016/S2589-7500(20)30217-X.
